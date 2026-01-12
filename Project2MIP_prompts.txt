@@ -1,0 +1,25 @@
+make a game in unity with the following:
+
+- a character in 2D that can move left and right and jump
+
+- collect coins/objects
+
+- avoid obstacles or simple enemies
+
+- have a score
+
+- and have a game over screen
+
+
+make the physics more realistic, make it such the player uses 9g gravity
+
+make it have a double jump
+
+how do we set the camera follow the Player ?
+
+Debugging prompt: For some reason the player after jumping it underflows by a few px to the ground and the comes back to normal, what causes that and how do I fix it ?
+
+make the camera be relative to the players position
+
+make the game over panel be visible once the players position is less that the ground relative position
+
